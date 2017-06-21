@@ -10,5 +10,7 @@ How to run this:
 git clone git@github.com:arnonhongklay/user_authentication.git
 cd user_authentication
 bundle install
+bundle exec rake db:migrate
 rails server
 ```
+Demo: https://shielded-dusk-46287.herokuapp.com/
