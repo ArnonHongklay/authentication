@@ -14,3 +14,9 @@ bundle exec rake db:migrate
 rails server
 ```
 Demo: https://shielded-dusk-46287.herokuapp.com/
+
+## Hi
+
+I used gem `devise`. it is "Flexible authentication solution for Rails with Warden." (https://github.com/plataformatec/devise) and I just add validate a strong password in Model for check password complexity requirements https://github.com/arnonhongklay/user_authentication/blob/master/app/models/user.rb
+
+ref https://github.com/plataformatec/devise/wiki/How-To:-Set-up-simple-password-complexity-requirements
