@@ -14,7 +14,7 @@ bundle exec rake db:migrate
 rails server
 ```
 
-Demo here: https://shielded-dusk-46287.herokuapp.com/
+Demo here: https://ah-authentication.herokuapp.com
 
 ## Hi
 
